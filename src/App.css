@@ -1,0 +1,7 @@
+form input{
+  @apply block w-full px-2 py-1 mt-1 mb-2 border rounded-md;
+}
+
+form label{
+  @apply font-medium 
+}
